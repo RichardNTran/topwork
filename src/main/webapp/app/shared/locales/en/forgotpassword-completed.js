@@ -1,7 +1,7 @@
 export const forgotPasswordCompleted = {
   title: 'Email address to reset the password have been sent',
   message: {
-    message_1: 'We have sent an email to mio@est-rouge.com to reset the password.',
+    message_1: 'We have sent an email to mio@.com to reset the password.',
     message_2: 'Please access the URL in the email and reset the password.'
   },
   note: {

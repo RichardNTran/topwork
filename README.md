@@ -29,5 +29,5 @@ Thank you to all the contributors on this project. Your help is much appreciated
 ## 4. License
 
 ```
-Copyright (c) Koji Teams Inc.
+Copyright (c) Richard Teams Inc.
 ```

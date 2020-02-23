@@ -1,7 +1,7 @@
 export const forgotPasswordCompleted = {
   title: 'パスワード再設定用メールを送信しました',
   message: {
-    message_1: 'mio@est-rouge.com にパスワード再設定用メールを送信しました。',
+    message_1: 'mio@.com にパスワード再設定用メールを送信しました。',
     message_2: 'メール本文中の確認用URLへアクセスして再設定してください。'
   },
   note: {

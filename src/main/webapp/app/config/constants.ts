@@ -18,7 +18,7 @@ export const FCM_USE_PUBLIC_VAPI_KEY = process.env.FCM_USE_PUBLIC_VAPI_KEY;
 
 export const SENTRY_ENV = process.env.SENTRY_ENV; // development, testing, staging, production
 export const ENV = process.env.SENTRY_ENV;
-export const DSN = 'https://502754d22fb542ab8d7252b7f0e10fb4@sentry.est-rouge-tech.com/4';
+export const DSN = 'https://';
 export const serviceName = 'TOPWORK Platform';
 
 export const AUTHORITIES = {
