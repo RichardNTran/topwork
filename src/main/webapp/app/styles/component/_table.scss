@@ -1,0 +1,30 @@
+.table-responsive-fix {
+  border: 1px solid $border-color;
+  .table {
+    border: 0;
+  }
+}
+.table-occupation-management {
+  @include breakpoint(767px) {
+    overflow-x: auto;
+    overflow-y: hidden;
+    .table {
+      min-width: 768px;
+    }
+  }
+}
+.card-dashboard-table {
+  .table-occupation-management {
+    .table {
+      min-width: 768px;
+      tr {
+        td,
+        th {
+          &:first-child {
+            white-space: normal;
+          }
+        }
+      }
+    }
+  }
+}
